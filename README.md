@@ -19,6 +19,7 @@ The total number of data items overloading: 1500
 
 The total number of data items storage: 35840
 
+<img align="center" width="2200px" src="https://github.com/YashPolu/DAO2/blob/main/Network%20Graph.png" />
 
 <br/>Node List: 
 <br/>Node:1, xAxis:819.5, yAxis:355.1, energycapacity:8 
