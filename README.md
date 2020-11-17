@@ -1,68 +1,78 @@
 The width is set to: 1000.0
+
 The height is set to: 1000.0
+
 Number of nodes is set to: 50
+
 Transmission range in meters is set to: 250
+
 Data Generators amount is set to: 15
-Assuming the first 15 nodes are DGs
+
+Assuming the first 15 nodes are Data Generators
 
 
 Data items per DG is set to: 100
+
 Data storage per node is set to:1024
+
 The total number of data items overloading: 1500
+
 The total number of data items storage: 35840
 
 
-Node List:
-Node:1, xAxis:819.5, yAxis:355.1, energycapacity:8
-Node:2, xAxis:914.6, yAxis:525.3, energycapacity:10
-Node:3, xAxis:272.4, yAxis:937.9, energycapacity:5
-Node:4, xAxis:354.0, yAxis:10.0, energycapacity:7
-Node:5, xAxis:786.3, yAxis:208.9, energycapacity:8
-Node:6, xAxis:319.0, yAxis:650.5, energycapacity:3
-Node:7, xAxis:309.9, yAxis:652.2, energycapacity:10
-Node:8, xAxis:494.3, yAxis:854.3, energycapacity:8
-Node:9, xAxis:797.1, yAxis:746.4, energycapacity:6
-Node:10, xAxis:761.6, yAxis:197.5, energycapacity:2
-Node:11, xAxis:506.4, yAxis:61.9, energycapacity:5
-Node:12, xAxis:634.2, yAxis:749.6, energycapacity:3
-Node:13, xAxis:771.8, yAxis:883.4, energycapacity:10
-Node:14, xAxis:730.3, yAxis:773.1, energycapacity:3
-Node:15, xAxis:579.3, yAxis:308.2, energycapacity:6
-Node:16, xAxis:831.5, yAxis:416.3, energycapacity:10
-Node:17, xAxis:847.4, yAxis:800.6, energycapacity:7
-Node:18, xAxis:224.6, yAxis:433.2, energycapacity:10
-Node:19, xAxis:528.7, yAxis:557.5, energycapacity:6
-Node:20, xAxis:467.4, yAxis:792.0, energycapacity:2
-Node:21, xAxis:828.2, yAxis:668.5, energycapacity:4
-Node:22, xAxis:128.3, yAxis:566.3, energycapacity:1
-Node:23, xAxis:962.1, yAxis:408.0, energycapacity:8
-Node:24, xAxis:218.9, yAxis:280.6, energycapacity:1
-Node:25, xAxis:410.6, yAxis:314.9, energycapacity:3
-Node:26, xAxis:325.8, yAxis:655.5, energycapacity:4
-Node:27, xAxis:497.6, yAxis:786.5, energycapacity:6
-Node:28, xAxis:73.5, yAxis:952.4, energycapacity:2
-Node:29, xAxis:869.1, yAxis:91.0, energycapacity:1
-Node:30, xAxis:549.0, yAxis:511.3, energycapacity:9
-Node:31, xAxis:832.3, yAxis:264.5, energycapacity:3
-Node:32, xAxis:974.0, yAxis:966.0, energycapacity:2
-Node:33, xAxis:224.4, yAxis:678.4, energycapacity:9
-Node:34, xAxis:629.3, yAxis:958.3, energycapacity:1
-Node:35, xAxis:256.9, yAxis:457.9, energycapacity:5
-Node:36, xAxis:356.3, yAxis:226.0, energycapacity:9
-Node:37, xAxis:48.6, yAxis:599.5, energycapacity:7
-Node:38, xAxis:94.6, yAxis:878.9, energycapacity:2
-Node:39, xAxis:178.5, yAxis:176.1, energycapacity:9
-Node:40, xAxis:28.2, yAxis:873.5, energycapacity:4
-Node:41, xAxis:160.0, yAxis:988.2, energycapacity:5
-Node:42, xAxis:208.9, yAxis:557.7, energycapacity:3
-Node:43, xAxis:216.9, yAxis:550.9, energycapacity:1
-Node:44, xAxis:901.4, yAxis:592.8, energycapacity:7
-Node:45, xAxis:456.6, yAxis:368.8, energycapacity:10
-Node:46, xAxis:607.4, yAxis:862.5, energycapacity:5
-Node:47, xAxis:212.7, yAxis:282.2, energycapacity:6
-Node:48, xAxis:743.6, yAxis:351.1, energycapacity:2
-Node:49, xAxis:986.4, yAxis:65.6, energycapacity:10
-Node:50, xAxis:594.1, yAxis:434.1, energycapacity:2
+<br/>Node List: 
+<br/>Node:1, xAxis:819.5, yAxis:355.1, energycapacity:8 
+<br/>Node:2, xAxis:914.6, yAxis:525.3, energycapacity:10 
+<br/>Node:3, xAxis:272.4, yAxis:937.9, energycapacity:5 
+<br/>Node:4, xAxis:354.0, yAxis:10.0, energycapacity:7 
+<br/>Node:5, xAxis:786.3, yAxis:208.9, energycapacity:8 
+<br/>Node:6, xAxis:319.0, yAxis:650.5, energycapacity:3 
+<br/>Node:7, xAxis:309.9, yAxis:652.2, energycapacity:10 
+<br/>Node:8, xAxis:494.3, yAxis:854.3, energycapacity:8 
+<br/>Node:9, xAxis:797.1, yAxis:746.4, energycapacity:6 
+<br/>Node:10, xAxis:761.6, yAxis:197.5, energycapacity:2 
+<br/>Node:11, xAxis:506.4, yAxis:61.9, energycapacity:5 
+<br/>Node:12, xAxis:634.2, yAxis:749.6, energycapacity:3 
+<br/>Node:13, xAxis:771.8, yAxis:883.4, energycapacity:10 
+<br/>Node:14, xAxis:730.3, yAxis:773.1, energycapacity:3 
+<br/>Node:15, xAxis:579.3, yAxis:308.2, energycapacity:6 
+<br/>Node:16, xAxis:831.5, yAxis:416.3, energycapacity:10 
+<br/>Node:17, xAxis:847.4, yAxis:800.6, energycapacity:7 
+<br/>Node:18, xAxis:224.6, yAxis:433.2, energycapacity:10
+<br/>Node:19, xAxis:528.7, yAxis:557.5, energycapacity:6 
+<br/>Node:20, xAxis:467.4, yAxis:792.0, energycapacity:2 
+<br/>Node:21, xAxis:828.2, yAxis:668.5, energycapacity:4 
+<br/>Node:22, xAxis:128.3, yAxis:566.3, energycapacity:1 
+<br/>Node:23, xAxis:962.1, yAxis:408.0, energycapacity:8 
+<br/>Node:24, xAxis:218.9, yAxis:280.6, energycapacity:1 
+<br/>Node:25, xAxis:410.6, yAxis:314.9, energycapacity:3 
+<br/>Node:26, xAxis:325.8, yAxis:655.5, energycapacity:4 
+<br/>Node:27, xAxis:497.6, yAxis:786.5, energycapacity:6 
+<br/>Node:28, xAxis:73.5, yAxis:952.4, energycapacity:2 
+<br/>Node:29, xAxis:869.1, yAxis:91.0, energycapacity:1 
+<br/>Node:30, xAxis:549.0, yAxis:511.3, energycapacity:9 
+<br/>Node:31, xAxis:832.3, yAxis:264.5, energycapacity:3 
+<br/>Node:32, xAxis:974.0, yAxis:966.0, energycapacity:2 
+<br/>Node:33, xAxis:224.4, yAxis:678.4, energycapacity:9 
+<br/>Node:34, xAxis:629.3, yAxis:958.3, energycapacity:1 
+<br/>Node:35, xAxis:256.9, yAxis:457.9, energycapacity:5 
+<br/>Node:36, xAxis:356.3, yAxis:226.0, energycapacity:9 
+<br/>Node:37, xAxis:48.6, yAxis:599.5, energycapacity:7 
+<br/>Node:38, xAxis:94.6, yAxis:878.9, energycapacity:2 
+<br/>Node:39, xAxis:178.5, yAxis:176.1, energycapacity:9 
+<br/>Node:40, xAxis:28.2, yAxis:873.5, energycapacity:4 
+<br/>Node:41, xAxis:160.0, yAxis:988.2, energycapacity:5 
+<br/>Node:42, xAxis:208.9, yAxis:557.7, energycapacity:3 
+<br/>Node:43, xAxis:216.9, yAxis:550.9, energycapacity:1 
+<br/>Node:44, xAxis:901.4, yAxis:592.8, energycapacity:7 
+<br/>Node:45, xAxis:456.6, yAxis:368.8, energycapacity:10 
+<br/>Node:46, xAxis:607.4, yAxis:862.5, energycapacity:5 
+<br/>Node:47, xAxis:212.7, yAxis:282.2, energycapacity:6 
+<br/>Node:48, xAxis:743.6, yAxis:351.1, energycapacity:2 
+<br/>Node:49, xAxis:986.4, yAxis:65.6, energycapacity:10 
+<br/>Node:50, xAxis:594.1, yAxis:434.1, energycapacity:2
+
+
 
 Adjacency List: 
 1: {16, 48, 2, 50, 5, 23, 10, 15, 31}
